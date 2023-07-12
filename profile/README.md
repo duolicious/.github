@@ -4,7 +4,7 @@ Duolicious is an app for meeting like-minded people.
 
 ## Features
 
-* Duolicious has a question bank containing over 1500 thoughtful and unique questions designed to help us gain authentic insight into your personality. The questions are fun and easy-to-answer, while still giving the depth of insight Duolicious needs to match you with the right people. Our question bank covers a huge variety of topics, including ethics, values, faith, and sexual compatibility.
+* Duolicious has a question bank containing over 2000 thoughtful and unique questions designed to help us gain authentic insight into your personality. The questions are fun and easy-to-answer, while still giving the depth of insight Duolicious needs to match you with the right people. Our question bank covers a huge variety of topics, including values, faith, politics and sexual compatibility.
 
 * As well as commonly used personality traits, like those measured by the MBTI, Duolicious shows you how you compare to other people based on psychometric traits like attachment style and thriftiness.
 
