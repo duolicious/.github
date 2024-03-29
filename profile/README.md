@@ -2,6 +2,8 @@
 
 Duolicious is an app for meeting like-minded people.
 
+The Duolicious app is available on [Google Play](https://play.google.com/store/apps/details?id=app.duolicious) and the [web](https://web.duolicious.app/). The iOS app is coming soon.
+
 ## Features
 
 * Duolicious has a question bank containing over 2000 thoughtful and unique questions designed to help us gain authentic insight into your personality—But you don't need to answer them all to find your perfect match! Right after your first response, Duolicious shows your best matches so far—And the matches get better with every response you give. The questions are fun and easy-to-answer, while still giving the depth of insight Duolicious needs to match you with the right people. Our question bank covers a huge variety of topics, including values, faith, politics and sexual compatibility.
