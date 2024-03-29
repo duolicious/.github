@@ -16,18 +16,11 @@ The Duolicious app is available on [Google Play](https://play.google.com/store/a
 
 ## Screenshots
 
-<img src="images/1.png" width="300">
-
-<img src="images/2.png" width="300">
-
-<img src="images/3.png" width="300">
-
-<img src="images/4.png" width="300">
-
-<img src="images/5.png" width="300">
-
-<img src="images/6.png" width="300">
-
-<img src="images/7.png" width="300">
-
-<img src="images/8.png" width="300">
+<img src="https://raw.githubusercontent.com/duolicious/.github/main/images/1.png" width="300">
+<img src="https://raw.githubusercontent.com/duolicious/.github/main/images/2.png" width="300">
+<img src="https://raw.githubusercontent.com/duolicious/.github/main/images/3.png" width="300">
+<img src="https://raw.githubusercontent.com/duolicious/.github/main/images/4.png" width="300">
+<img src="https://raw.githubusercontent.com/duolicious/.github/main/images/5.png" width="300">
+<img src="https://raw.githubusercontent.com/duolicious/.github/main/images/6.png" width="300">
+<img src="https://raw.githubusercontent.com/duolicious/.github/main/images/7.png" width="300">
+<img src="https://raw.githubusercontent.com/duolicious/.github/main/images/8.png" width="300">
