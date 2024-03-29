@@ -1,6 +1,6 @@
 # Duolicious
 
-Duolicious is an app for meeting like-minded people.
+Duolicious is a personality-based dating app for meeting like-minded people.
 
 The Duolicious app is available on [Google Play](https://play.google.com/store/apps/details?id=app.duolicious) and the [web](https://web.duolicious.app/). The iOS app is coming soon.
 
