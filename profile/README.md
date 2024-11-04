@@ -12,7 +12,7 @@ The Duolicious app is available on [Google Play](https://play.google.com/store/a
 
 * Duolicious encourages genuine connections by eschewing low-effort signals such as liking and swiping on profiles. Instead, people introduce themselves simply by sending a message. To encourage meaningful conversations, Duolicious checks first messages for originality, and asks people to avoid overused openers like 'hey' and 'sup'.
 
-* Unlike other dating apps, Duolicious is completely free and has no advertisements. Every user gets the full experience Duolicious has to offer. (We intend to allow donations in the future. But we also intend to openly advertise our running costs so that our users don't donate more than we need.)
+* Unlike other dating apps, Duolicious is completely free and has no advertisements. Every user gets the full experience Duolicious has to offer. In return, our community supports us through [donations](https://ko-fi.com/duolicious), by sharing Duolicious with friends, and by contributing code.
 
 ## Screenshots
 
