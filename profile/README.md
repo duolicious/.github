@@ -1,6 +1,6 @@
 # Duolicious
 
-Duolicious is the world's most popular open-source dating app (measured by [monthly active users](https://api.duolicious.app/stats)). Duolicious has been featured on [Mashable](https://mashable.com/article/duolicious-4chan-femcel-dating-app) and [Know Your Meme](https://knowyourmeme.com/memes/sites/duolicious-4chan-dating-app).
+Duolicious is the internet's most popular open-source dating app (measured by [monthly active users](https://api.duolicious.app/stats)). Duolicious has been featured on [Mashable](https://mashable.com/article/duolicious-4chan-femcel-dating-app) and [Know Your Meme](https://knowyourmeme.com/memes/sites/duolicious-4chan-dating-app).
 
 The Duolicious app is available on [Google Play](https://play.google.com/store/apps/details?id=app.duolicious), [iOS](https://apps.apple.com/us/app/duolicious-dating-app/id6499066647) and the [web](https://web.duolicious.app/).
 
